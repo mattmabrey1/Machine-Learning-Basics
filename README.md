@@ -1,0 +1,2 @@
+# Machine-Learning-Basics
+Artificial Intelligence project and extra credit where I tested common machine learning methods on beginner data sets such as the digits, iris, and human activity recognition datasets. I used train-test split, cross-fold validation, support vector machines, k-means clustering, and the Gaussian Mixture method throughout the project to determine the best hyperparameters and fit each model. Principal component analysis was also used to help graph the results. 
